@@ -1,5 +1,5 @@
 # vue-project
-##This is a vue-crud-app using laravel-api.
+##This is a Vue-crud-app using laravel-api.
 
 ##This template should help get you started developing with Vue 3 in Vite.
 
